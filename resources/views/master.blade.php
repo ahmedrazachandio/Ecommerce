@@ -55,7 +55,11 @@
         .search_box{
             width: 500px !important;
         }
-
+        .cart_lis_divider{
+            border-bottom: 1px solid #cccc;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
     </style>
 
 </html>
